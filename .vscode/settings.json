@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.tree.indent": 6,
+    "prettier.jsxSingleQuote": false,
+    "editor.formatOnSave": true,
+    "jshint.enable": false,
+    "editor.tabSize": 2
+}
